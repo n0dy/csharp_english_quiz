@@ -1,0 +1,14 @@
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\bin\Debug\English Quiz.exe
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\bin\Debug\English Quiz.pdb
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English Quiz.csprojResolveAssemblyReference.cache
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English_Quiz.Home.resources
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English_Quiz.Help.resources
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English_Quiz.Properties.Resources.resources
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English Quiz.csproj.GenerateResource.Cache
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English Quiz.exe
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English Quiz.pdb
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English_Quiz.AdminLogin.resources
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English_Quiz.AdminPanel.resources
+C:\Users\batad\Desktop\Projekti\English Quiz\English Quiz\obj\Debug\English_Quiz.Quiz.resources
+C:\Users\batad\Desktop\IV godina\Projekti\English Quiz\English Quiz\obj\Debug\English Quiz.exe
+C:\Users\batad\Desktop\IV godina\Projekti\English Quiz\English Quiz\obj\Debug\English Quiz.pdb
